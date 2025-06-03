@@ -13,6 +13,13 @@
             sheep.walk("1", "2" , "3","4");
 
             Numbers.printNumbers(1, 4, 5, 2, 5, 2);     //check Numbers.cs to see params syntax
+
+
+            var ObjectInitializePerson  = new ObjectInitializePerson
+            {
+                Name = "John",
+                Age = 30
+            }; //check ObjectInitializePerson.cs to see Object Initializer Syntax
         }
     }
 }
