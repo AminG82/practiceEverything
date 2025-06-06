@@ -15,7 +15,7 @@
             Numbers.printNumbers(1, 4, 5, 2, 5, 2);     //check Numbers.cs to see params syntax
 
 
-            var ObjectInitializePerson  = new ObjectInitializePerson
+            var ObjectInitializePerson = new ObjectInitializePerson
             {
                 Name = "John",
                 Age = 30
