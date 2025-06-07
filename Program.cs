@@ -20,6 +20,8 @@
                 Name = "John",
                 Age = 30
             }; //check ObjectInitializePerson.cs to see Object Initializer Syntax
+
+            Console.WriteLine(AverageCalculator.CaclulateAverageWithWhile());  //check AverageCalculator.cs to see While Loop Syntax
         }
     }
 }
